@@ -24,17 +24,25 @@ I am an adaptable Full-Stack Developer and Creative Visionary, ardently devoted 
 
 ## Skills & Technologies
 
-html,css,js,git,github,c,cs,cpp,bootstrap,django,codepen,ae,gitlab,kali,docker,java,netlify,mysql,nodejs,nextjs,vue,react,py,npm,threejs,vscode,php
+### 💻 Development
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,c,cs,cpp,bootstrap,django,codepen,ae,gitlab,kali,docker,java,netlify,mysql,nodejs,nextjs,vue,react,py,npm,threejs,vscode,php)
+### 🎨 Creative & Design
+![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
 
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinethkaveesha&show_icons=true&theme=radical" alt="tinethkaveesha's GitHub stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinethkaveesha&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinethkaveesha&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ## Contact Me
-
-https://www.instagram.com/tineth_kaveesha/
-
-https://www.linkedin.com/in/tineth-kaveesha-2ab826332/
+<p align="left">
+<a href="https://www.linkedin.com/in/tineth-kaveesha-2ab826332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinethkaveesha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tineth_kaveesha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinethkaveesha" height="30" width="40" /></a>
+</p>
 
 ## ASCII
 
