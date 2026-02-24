@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there!
 
 I'm **Tineth Kaveesha**, a passionate developer who loves building projects and learning new technologies. Whether it's web development, software engineering, or exploring innovative solutions, I'm always eager to dive in and create something amazing!
 
@@ -6,27 +6,27 @@ I'm **Tineth Kaveesha**, a passionate developer who loves building projects and 
 
 I am an adaptable Full-Stack Developer and Creative Visionary, ardently devoted to engineering immersive and frictionless digital ecosystems. My expertise lies in harmonizing the precision of software architecture with the artistry of design, thereby transforming abstract concepts into robust, elegant, and user-centric solutions. From architecting scalable web infrastructures to orchestrating intuitive mobile and desktop applications, I seamlessly traverse the intersection of technical ingenuity and aesthetic refinement.
 
-🌐 Web & Web Application Development
+Web & Web Application Development
 - Architecting responsive, dynamic, and future-proof web platforms that embody both performance and sophistication.
 
-📱 Mobile Application Development
+Mobile Application Development
 - Engineering cross-platform mobile experiences that unify functionality with intuitive interaction, ensuring accessibility across diverse ecosystems.
 
-💻 Desktop Application Development
+Desktop Application Development
 - Designing powerful standalone software solutions that integrate efficiency, resilience, and seamless usability.
 
-🎨 Graphic & Interface Design
+Graphic & Interface Design
 - Crafting visual identities and user interfaces that resonate with clarity, elegance, and brand authenticity.
 
-🎬 Digital Content Creation
+Digital Content Creation
 - Producing captivating multimedia narratives and digital assets that amplify engagement and enrich the online experience.
 
 
 ## Skills & Technologies
 
-### 💻 Development
+### Development
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,c,cs,cpp,bootstrap,django,codepen,ae,gitlab,kali,docker,java,netlify,mysql,nodejs,nextjs,vue,react,py,npm,threejs,vscode,php)
-### 🎨 Creative & Design
+### Creative & Design
 ![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
 
 ## GitHub Stats
