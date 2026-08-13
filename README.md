@@ -29,15 +29,6 @@ Digital Content Creation
 ### Creative & Design
 ![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinethkaveesha&show_icons=true&theme=radical" alt="tinethkaveesha's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinethkaveesha&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
 ## Contact Me
 <p align="left">
 <a href="https://www.linkedin.com/in/tineth-kaveesha-2ab826332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinethkaveesha" height="30" width="40" /></a>
